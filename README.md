@@ -3,6 +3,7 @@ with veryyyyy limited functionality
 Atm - only the map works!
 
 I used Phaser & Tiled to create this.
+I used texturepacker to create the sprite atlas.
 
 I used this article - https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6
 
